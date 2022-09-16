@@ -3,10 +3,10 @@
 
 
 
-![image-20220916140824913](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220916140824913.png)
+![1](F:\Porject\YYY\Image\1.png)
 
 
 
-![image-20220916141117585](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220916141117585.png)
+![2](F:\Porject\YYY\Image\2.png)
 
-![image-20220916141128175](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220916141128175.png)
+![3](F:\Porject\YYY\Image\3.png)
