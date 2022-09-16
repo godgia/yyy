@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYRVfdtIiKsBQP8bMhVqb3607d9VnawYgpNzSFDmNe4aSG/v7ftnLqTkOqu3ByHsU1P0/UtVElh5qpm4jGG87Q==",
+  "success": true,
+  "projectFilePath": "F:\\Porject\\YYY\\YYY.csproj",
+  "expectedPackageFiles": [
+    "D:\\Program Files\\nuget\\grpc.core.api\\2.48.0\\grpc.core.api.2.48.0.nupkg.sha512",
+    "D:\\Program Files\\nuget\\grpc.net.client\\2.48.0\\grpc.net.client.2.48.0.nupkg.sha512",
+    "D:\\Program Files\\nuget\\grpc.net.common\\2.48.0\\grpc.net.common.2.48.0.nupkg.sha512",
+    "D:\\Program Files\\nuget\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "D:\\Program Files\\nuget\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
